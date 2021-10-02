@@ -2406,7 +2406,7 @@ You can even designate federation admins, so your trusted admin can ban all the 
 Feds are now divided into 3 sections for your ease. 
 ❍ /fedownerhelp*:* Provides help for fed creation and owner only commands
 ❍ /fedadminhelp*:* Provides help for fed administration commands
-❍ /feduserhelp*:* Provides help for commands anyone can use
+❍ /feduserhelp*:* Provides help for commands anIzumi can use
 
 """
 

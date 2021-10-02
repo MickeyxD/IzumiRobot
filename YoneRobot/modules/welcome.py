@@ -668,7 +668,7 @@ def welcome(update: Update, context: CallbackContext):
         elif args[0].lower() in ("off", "no"):
             sql.set_welc_preference(str(chat.id), False)
             update.effective_message.reply_text(
-                "I'll go loaf around and not welcome anyone then."
+                "I'll go loaf around and not welcome anIzumi then."
             )
 
         else:

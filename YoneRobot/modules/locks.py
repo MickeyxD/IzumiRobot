@@ -268,7 +268,7 @@ def unlock(update, context) -> str:
                     chat = dispatcher.bot.getChat(conn)
                     chat_id = conn
                     chat_name = chat.title
-                    text = "Unlocked {} for everyone in {}!".format(ltype, chat_name)
+                    text = "Unlocked {} for everIzumi in {}!".format(ltype, chat_name)
                 else:
                     if update.effective_message.chat.type == "private":
                         send_message(
@@ -300,7 +300,7 @@ def unlock(update, context) -> str:
                     chat = dispatcher.bot.getChat(conn)
                     chat_id = conn
                     chat_name = chat.title
-                    text = "Unlocked {} for everyone in {}!".format(ltype, chat_name)
+                    text = "Unlocked {} for everIzumi in {}!".format(ltype, chat_name)
                 else:
                     if update.effective_message.chat.type == "private":
                         send_message(

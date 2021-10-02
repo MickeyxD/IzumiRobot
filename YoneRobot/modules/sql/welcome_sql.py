@@ -87,7 +87,7 @@ DEFAULT_WELCOME_MESSAGES = [
     "{first} just joined, be at alert they could be a spy.",
     "{first} joined the group, read by Mark Zuckerberg, CIA and 35 others.",
     "Welcome {first}, watch out for falling monkeys.",
-    "Everyone stop what you’re doing, We are now in the presence of {first}.",
+    "EverIzumi stop what you’re doing, We are now in the presence of {first}.",
     "Hey {first}, do you wanna know how I got these scars?",
     "Welcome {first}, drop your weapons and proceed to the spy scanner.",
     "Stay safe {first}, Keep 3 meters social distances between your messages.",  # Corona memes lmao

@@ -32,7 +32,7 @@ def report_setting(update: Update, context: CallbackContext):
             if args[0] in ("yes", "on"):
                 sql.set_user_setting(chat.id, True)
                 msg.reply_text(
-                    "Turned on reporting! You'll be notified whenever anyone reports something."
+                    "Turned on reporting! You'll be notified whenever anIzumi reports something."
                 )
 
             elif args[0] in ("no", "off"):

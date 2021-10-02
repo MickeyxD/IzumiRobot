@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "yone "
+          find: "noob-kittu/YoneRobot"
 
-          replace: "Izumi "
+          replace: "MickeyxD/IzumiRobot"
 
       - name: Create Pull Request
 
